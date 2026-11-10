@@ -124,6 +124,7 @@ The three buttons are not effective, no action is triggered.
 
 ### Visual Evidence:
 <video controls src="videos/uneffective_share_buttons1.mp4" title="Title"></video>
+https://github.com/MustafaXWolf/QA-Portfolio/blob/main/Project1/videos/uneffective_share_buttons1.mp4
 
 ### Technical Context:
 ![DevTools Elements showing the share buttons markup](images/buttons_elements.png)
