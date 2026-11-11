@@ -142,7 +142,7 @@ The home page opens.
 ```<a _ngcontent-ng-c2781432996="" data-test="nav-home" aria-current="page" routerlink="/contact" class="nav-link active" href="#/contact">Home</a>```
 
 #### Visual Evidence
-[▶ Watch video](videos/home_tab_opens_contact_page1.mp4)
+[▶ Watch the clip](videos/home_tab_opens_contact_page1.webp) · [MP4](videos/home_tab_opens_contact_page1.mp4)
 
 #### Technical Context
 * DevTools Elements:
@@ -169,10 +169,10 @@ User is not returned to the Search Results page, instead, they're being redirect
 
 #### Visual Evidence
 - With-bugs Sprint 5:
-[▶ Watch video](videos/with_bugs_search_back_faulted1.mp4)
+[▶ Watch the clip](videos/with_bugs_search_back_faulted1.webp) · [MP4](videos/with_bugs_search_back_faulted1.mp4)
 
 * Clean Sprint 5:
-[▶ Watch video](videos/clean_sprint_search_back_faulted1.mp4)
+[▶ Watch the clip](videos/clean_sprint_search_back_faulted1.webp) · [MP4](videos/clean_sprint_search_back_faulted1.mp4)
 
 ---
 
@@ -195,10 +195,10 @@ User is not returned to the current page, and instead, they're actually redirect
 
 #### Visual Evidence
 - With-bugs Sprint 5:
-[▶ Watch video](videos/with_bugs_ads_page_back_faulted1.mp4)
+[▶ Watch the clip](videos/with_bugs_ads_page_back_faulted1.webp) · [MP4](videos/with_bugs_ads_page_back_faulted1.mp4)
 
 * Clean Sprint 5:
-[▶ Watch video](videos/clean_sprint_ads_page_back_faulted1.mp4)
+[▶ Watch the clip](videos/clean_sprint_ads_page_back_faulted1.webp) · [MP4](videos/clean_sprint_ads_page_back_faulted1.mp4)
 
 ---
 
@@ -224,10 +224,10 @@ Return to filtered search results + checkboxes preserved.
 
 #### Visual Evidence
 - With-bugs Sprint 5:
-[▶ Watch video](videos/with_bugs_filter_back_faulted1.mp4)
+[▶ Watch the clip](videos/with_bugs_filter_back_faulted1.webp) · [MP4](videos/with_bugs_filter_back_faulted1.mp4)
 
 * Clean Sprint 5:
-[▶ Watch video](videos/clean_sprint_filter_back_faulted1.mp4)
+[▶ Watch the clip](videos/clean_sprint_filter_back_faulted1.webp) · [MP4](videos/clean_sprint_filter_back_faulted1.mp4)
 
 ---
 
@@ -307,7 +307,7 @@ Ad titles jump left/right consistently per keystroke.
 Distracting, makes the page feel unstable; users may lose focus mid-query or mistake the movement for a page reload.
 
 #### Visual Evidence
-[▶ Watch video](videos/entering_search_field_effects_ads_layout1.mp4)
+[▶ Watch the clip](videos/entering_search_field_effects_ads_layout1.webp) · [MP4](videos/entering_search_field_effects_ads_layout1.mp4)
 
 ---
 
@@ -331,7 +331,7 @@ Products are reordered according to the option.
 - In the html code, the asc/desc sorting logic is applied backwards.
 
 #### Visual Evidence
-[▶ Watch video](videos/sorting_reorders_in_reverse1.mp4)
+[▶ Watch the clip](videos/sorting_reorders_in_reverse1.webp) · [MP4](videos/sorting_reorders_in_reverse1.mp4)
 
 #### Technical Context
 * DevTools Elements tab:
@@ -359,7 +359,7 @@ Products are in the price range are displayed, while products out of range are n
 - Status Code: 204 No Content
 
 #### Visual Evidence
-[▶ Watch video](videos/price_range_reorders_in_reverse1.mp4)
+[▶ Watch the clip](videos/price_range_reorders_in_reverse1.webp) · [MP4](videos/price_range_reorders_in_reverse1.mp4)
 
 #### Technical Context
 * DevTools Network tab:
@@ -386,7 +386,7 @@ Real brand names are shown, and each brand filters the list.
 Names are "Brand name 1" to "Brand name 10", and only 1 and 2 filter products.
 
 #### Visual Evidence
-[▶ Watch video](videos/brand_filter_faulted1.mp4)
+[▶ Watch the clip](videos/brand_filter_faulted1.webp) · [MP4](videos/brand_filter_faulted1.mp4)
 
 ---
 
@@ -407,7 +407,7 @@ No unnamed category exists, or it shows products.
 The "UNDEFINED" category exists and contains no products or data.
 
 #### Visual Evidence
-[▶ Watch video](videos/UNDEFINED_category1.mp4)
+[▶ Watch the clip](videos/UNDEFINED_category1.webp) · [MP4](videos/UNDEFINED_category1.mp4)
 
 ---
 
@@ -428,7 +428,7 @@ The category page shows its products.
 A 404 Page Not Found error appears.
 
 #### Visual Evidence
-[▶ Watch video](videos/chainsaws_category_error_4041.mp4)
+[▶ Watch the clip](videos/chainsaws_category_error_4041.webp) · [MP4](videos/chainsaws_category_error_4041.mp4)
 
 ---
 
@@ -449,7 +449,7 @@ Only eco-friendly products are shown.
 Nothing changes, only ad titles jump left/right consistently by every click on the checkbox.
 
 #### Visual Evidence
-[▶ Watch video](videos/sustainability_filter_unfunctional1.mp4)
+[▶ Watch the clip](videos/sustainability_filter_unfunctional1.webp) · [MP4](videos/sustainability_filter_unfunctional1.mp4)
 
 ---
 
@@ -473,7 +473,7 @@ All three ads show their images.
 The images appear only after clicking the ad and opening the product.
 
 #### Visual Evidence
-[▶ Watch video](videos/ads_not_show_images1.mp4)
+[▶ Watch the clip](videos/ads_not_show_images1.webp) · [MP4](videos/ads_not_show_images1.mp4)
 
 ---
 
@@ -495,7 +495,7 @@ The buttons are separate and clickable.
 The buttons overlap but still clickable.
 
 #### Visual Evidence
-[▶ Watch video](videos/buttons_overlap1.mp4)
+[▶ Watch the clip](videos/buttons_overlap1.webp) · [MP4](videos/buttons_overlap1.mp4)
 
 ---
 
@@ -518,7 +518,7 @@ A success message appears.
 The error "Oeps, something went wrong" appears, but the product is added to both lists.
 
 #### Visual Evidence
-[▶ Watch video](videos/add_to_cart_and_favourites_error_message1.mp4)
+[▶ Watch the clip](videos/add_to_cart_and_favourites_error_message1.webp) · [MP4](videos/add_to_cart_and_favourites_error_message1.mp4)
 
 ---
 
@@ -542,10 +542,10 @@ Some ads descriptions overlap with their images.
 
 #### Visual Evidence
 - With-bugs Sprint 5:
-[▶ Watch video](videos/favourites_descriptions_and_images_overlap_with_bugs1.mp4)
+[▶ Watch the clip](videos/favourites_descriptions_and_images_overlap_with_bugs1.webp) · [MP4](videos/favourites_descriptions_and_images_overlap_with_bugs1.mp4)
 
 * Clean Sprint 5:
-[▶ Watch video](videos/favourites_descriptions_and_images_overlap_clean_sprint1.mp4)
+[▶ Watch the clip](videos/favourites_descriptions_and_images_overlap_clean_sprint1.webp) · [MP4](videos/favourites_descriptions_and_images_overlap_clean_sprint1.mp4)
 
 ---
 
@@ -569,10 +569,10 @@ Clicking on the ad does not open the product details page, and user remains on t
 
 #### Visual Evidence
 - With-bugs Sprint 5:
-[▶ Watch video](videos/clicking_on_ad_in_favourites_does_not_open_with_bugs1.mp4)
+[▶ Watch the clip](videos/clicking_on_ad_in_favourites_does_not_open_with_bugs1.webp) · [MP4](videos/clicking_on_ad_in_favourites_does_not_open_with_bugs1.mp4)
 
 * Clean Sprint 5:
-[▶ Watch video](videos/clicking_on_ad_in_favourites_does_not_open_clean_sprint1.mp4)
+[▶ Watch the clip](videos/clicking_on_ad_in_favourites_does_not_open_clean_sprint1.webp) · [MP4](videos/clicking_on_ad_in_favourites_does_not_open_clean_sprint1.mp4)
 
 ---
 
@@ -647,7 +647,7 @@ The product is removed and the totals update.
 Nothing happens when the delete button is clicked. A product can only be removed by changing its quantity to 0.
 
 #### Visual Evidence
-[▶ Watch video](videos/cart_delete_button_unfunctional1.mp4)
+[▶ Watch the clip](videos/cart_delete_button_unfunctional1.webp) · [MP4](videos/cart_delete_button_unfunctional1.mp4)
 
 ---
 
@@ -668,7 +668,7 @@ Each field accepts what its label says.
 The fields are swapped: the country must be entered in State, and the state in Country.
 
 #### Visual Evidence
-[▶ Watch video](videos/country_state_fields_swapped1.mp4)
+[▶ Watch the clip](videos/country_state_fields_swapped1.webp) · [MP4](videos/country_state_fields_swapped1.mp4)
 
 ---
 
@@ -691,10 +691,10 @@ The user is registered normally, with no error message.
 
 #### Visual Evidence
 With-bugs Sprint 5:
-[▶ Watch video](videos/date_birth_faulted_with_bugs1.mp4)
+[▶ Watch the clip](videos/date_birth_faulted_with_bugs1.webp) · [MP4](videos/date_birth_faulted_with_bugs1.mp4)
 
 Clean Sprint 5:
-[▶ Watch video](videos/date_birth_faulted_clean_sprint1.mp4)
+[▶ Watch the clip](videos/date_birth_faulted_clean_sprint1.webp) · [MP4](videos/date_birth_faulted_clean_sprint1.mp4)
 
 ---
 
@@ -717,10 +717,10 @@ The invalid postcode is accepted and the user is registered.
 
 #### Visual Evidence
 With-bugs Sprint 5:
-[▶ Watch video](videos/postcode_faulted_with_bugs1.mp4)
+[▶ Watch the clip](videos/postcode_faulted_with_bugs1.webp) · [MP4](videos/postcode_faulted_with_bugs1.mp4)
 
 Clean Sprint 5:
-[▶ Watch video](videos/postcode_faulted_clean_sprint1.mp4)
+[▶ Watch the clip](videos/postcode_faulted_clean_sprint1.webp) · [MP4](videos/postcode_faulted_clean_sprint1.mp4)
 
 ---
 
@@ -742,7 +742,7 @@ The Log in tab is replaced by "My account" or the user's name.
 The Log in tab disappears and a tab named "User Data not found" appears.
 
 #### Visual Evidence
-[▶ Watch video](videos/User_Data_not_found1.mp4)
+[▶ Watch the clip](videos/User_Data_not_found1.webp) · [MP4](videos/User_Data_not_found1.mp4)
 
 ---
 
@@ -766,7 +766,9 @@ The user is not logged in, and the validation message "Invalid email or password
 The user is logged in successfully: the SQL injection payload bypasses the authentication.
 
 #### Visual Evidence
-[▶ Watch video](videos/sql_injection1.mp4)
+![Screen recording: sql injection](videos/sql_injection1.webp)
+
+[Full-quality MP4](videos/sql_injection1.mp4)
 
 ---
 
@@ -792,7 +794,9 @@ The user is logged in successfully: the SQL injection payload bypasses the authe
 - Possible SQL vector even if not exploited.
 
 #### Visual Evidence
-[▶ Watch video](videos/server_returns_500_internal_server_error1.mp4)
+![Screen recording: server returns 500 internal server error](videos/server_returns_500_internal_server_error1.webp)
+
+[Full-quality MP4](videos/server_returns_500_internal_server_error1.mp4)
 
 #### Technical Context
 - DevTools Console logs:
@@ -881,7 +885,9 @@ A success message appears and the change is saved.
 The error "Resource not found" appears.
 
 #### Visual Evidence
-[▶ Watch video](videos/update_profile_error1.mp4)
+![Screen recording: update profile error](videos/update_profile_error1.webp)
+
+[Full-quality MP4](videos/update_profile_error1.mp4)
 
 ---
 
@@ -904,7 +910,9 @@ The user can log in with the new password.
 The password is changed to a value the user did not choose or know, so the account becomes inaccessible.
 
 #### Visual Evidence
-[▶ Watch video](videos/logged_in_changing_password_faulted1.mp4)
+![Screen recording: logged in changing password faulted](videos/logged_in_changing_password_faulted1.webp)
+
+[Full-quality MP4](videos/logged_in_changing_password_faulted1.mp4)
 
 ---
 
@@ -927,10 +935,14 @@ The password is changed to a value the user did not choose or know, so the accou
 
 #### Visual Evidence
 - With-bugs Sprint 5:
-[▶ Watch video](videos/forogt_password_faulted_with_bugs1.mp4)
+![Screen recording: forgot password faulted with bugs](videos/forogt_password_faulted_with_bugs1.webp)
+
+[Full-quality MP4](videos/forogt_password_faulted_with_bugs1.mp4)
 
 * Clean Sprint 5:
-[▶ Watch video](videos/forogt_password_faulted_clean_sprint1.mp4)
+![Screen recording: forgot password faulted clean sprint](videos/forogt_password_faulted_clean_sprint1.webp)
+
+[Full-quality MP4](videos/forogt_password_faulted_clean_sprint1.mp4)
 
 ---
 
@@ -975,10 +987,10 @@ Step indicator is non-functional and user has to use the browser back button and
 
 #### Visual Evidence
 - With-bugs Sprint 5:
-[▶ Watch video](videos/step_indicator_faulted_with_bugs1.mp4)
+[▶ Watch the clip](videos/step_indicator_faulted_with_bugs1.webp) · [MP4](videos/step_indicator_faulted_with_bugs1.mp4)
 
 * Clean Sprint 5:
-[▶ Watch video](videos/step_indicator_faulted_clean_sprint1.mp4)
+[▶ Watch the clip](videos/step_indicator_faulted_clean_sprint1.webp) · [MP4](videos/step_indicator_faulted_clean_sprint1.mp4)
 
 ---
 
@@ -1070,15 +1082,15 @@ Every payment method is usable and asks only for the details it needs.
 "Your Account name" and "Your Account number" are shown and required for every method, even Cash on Delivery, and any data (even invalid) is accepted.
 
 #### Visual Evidence
-[▶ Watch video](videos/payment_methods_faulted1.mp4)
+[▶ Watch the clip](videos/payment_methods_faulted1.webp) · [MP4](videos/payment_methods_faulted1.mp4)
 
 #### Technical Context
 **A comparison of the code dynamics for both versions when changing the payment method**:
 - Clean Sprint 5:
-[▶ Watch video](videos/DevTools_elements_payment_methods_clean_sprint1.mp4)
+[▶ Watch the clip](videos/DevTools_elements_payment_methods_clean_sprint1.webp) · [MP4](videos/DevTools_elements_payment_methods_clean_sprint1.mp4)
 
 * With-bugs Sprint 5:
-[▶ Watch video](videos/DevTools_elements_payment_methods_with_bugs1.mp4)
+[▶ Watch the clip](videos/DevTools_elements_payment_methods_with_bugs1.webp) · [MP4](videos/DevTools_elements_payment_methods_with_bugs1.mp4)
 
 ---
 
@@ -1101,10 +1113,14 @@ No invoice number is shown and the invoice is not added. Only purchases made thr
 
 #### Visual Evidence
 - With-bugs Sprint 5:
-[▶ Watch video](videos/no_invoice_number_with_bugs1.mp4)
+![Screen recording: no invoice number with bugs](videos/no_invoice_number_with_bugs1.webp)
+
+[Full-quality MP4](videos/no_invoice_number_with_bugs1.mp4)
 
 * Clean Sprint 5:
-[▶ Watch video](videos/no_invoice_number_clean_sprint1.mp4)
+![Screen recording: no invoice number clean sprint](videos/no_invoice_number_clean_sprint1.webp)
+
+[Full-quality MP4](videos/no_invoice_number_clean_sprint1.mp4)
 
 ---
 
@@ -1147,7 +1163,9 @@ The purchase is confirmed with an invoice number.
 - Purchasing through Chat Assistant encountered an error, and the process didn't complete.
 
 #### Visual Evidence
-[▶ Watch video](videos/clean_sprint_purchasing_through_chat_assistant_faulted1.mp4)
+![Screen recording: clean sprint purchasing through chat assistant faulted](videos/clean_sprint_purchasing_through_chat_assistant_faulted1.webp)
+
+[Full-quality MP4](videos/clean_sprint_purchasing_through_chat_assistant_faulted1.mp4)
 
 ---
 
@@ -1204,7 +1222,7 @@ Only .txt files are accepted (a .pdf or .jpg file gives "The file extension is i
 ![Error message after attaching a .pdf file](images/contact_attachment_pdf_error.png)
 
 - .txt file larger than 500 KB:
-[▶ Watch video](videos/contact_attachment_txt_above_500_kb1.mp4)
+[▶ Watch the clip](videos/contact_attachment_txt_above_500_kb1.webp) · [MP4](videos/contact_attachment_txt_above_500_kb1.mp4)
 
 ---
 
@@ -1253,7 +1271,9 @@ Clicking any message details button opens the details of the selected message.
 Clicking the details button for any message opens the details of the most recently sent message, rather than the details of the selected message.
 
 #### Visual Evidence
-[▶ Watch video](videos/message_details_button_faulted1.mp4)
+![Screen recording: message details button faulted](videos/message_details_button_faulted1.webp)
+
+[Full-quality MP4](videos/message_details_button_faulted1.mp4)
 
 ---
 
@@ -1297,7 +1317,7 @@ The assistant confirms the action, and the cart shows the product with the corre
 The assistant confirms the action, but the cart doesn't show the name and price.
 
 #### Visual Evidence
-[▶ Watch video](videos/adding_to_cart_through_chat_faulted1.mp4)
+[▶ Watch the clip](videos/adding_to_cart_through_chat_faulted1.webp) · [MP4](videos/adding_to_cart_through_chat_faulted1.mp4)
 
 ---
 
@@ -1323,7 +1343,7 @@ The assistant confirms the action, and the cart shows the product with the new i
 - The old process has been replaced by the new one, so, the cart only shows the new quantity and price.
 
 #### Visual Evidence
-[▶ Watch video](videos/readding_product_already_in_cart_to_cart_via_chat_not_show_new_increased_correct_quantity_and_price1.mp4)
+[▶ Watch the clip](videos/readding_product_already_in_cart_to_cart_via_chat_not_show_new_increased_correct_quantity_and_price1.webp) · [MP4](videos/readding_product_already_in_cart_to_cart_via_chat_not_show_new_increased_correct_quantity_and_price1.mp4)
 
 ---
 
@@ -1345,7 +1365,7 @@ The assistant refuses, asks for correct data, and creates no order.
 The assistant refuses, shows an error ("There was an error processing your order: Something went wrong"), and creates no order.
 
 #### Visual Evidence
-[▶ Watch video](videos/purchasing_through_chat_using_invalid_data_shows_misleading_error1.mp4)
+[▶ Watch the clip](videos/purchasing_through_chat_using_invalid_data_shows_misleading_error1.webp) · [MP4](videos/purchasing_through_chat_using_invalid_data_shows_misleading_error1.mp4)
 
 ---
 
@@ -1368,26 +1388,26 @@ The assistant refuses, shows an error ("There was an error processing your order
 #### Actual & Visual Evidence
 - With bugs:
   - On the contact page, the focus starts from the subject field if the user was logged in, and from the first name field if the user was not logged in, and not starting from the top of the page.
-  [▶ Watch video](videos/taborder_contact_page_faulted_with_bugs1.mp4)
+  [▶ Watch the clip](videos/taborder_contact_page_faulted_with_bugs1.webp) · [MP4](videos/taborder_contact_page_faulted_with_bugs1.mp4)
 
   - On the login page, the focus starts from the email field going to the login field, and it does not follow the correct path.
-  [▶ Watch video](videos/taborder_login_page_faulted_with_bugs1.mp4)
+  [▶ Watch the clip](videos/taborder_login_page_faulted_with_bugs1.webp) · [MP4](videos/taborder_login_page_faulted_with_bugs1.mp4)
 
   - On the registration page, the focus starts with the first name field, then moves to the last name field, then skips the date of birth, then goes through the rest of the fields up to the email address field, then skips the password field and goes directly to the registration button.
-  [▶ Watch video](videos/taborder_registration_page_faulted_with_bugs1.mp4)
+  [▶ Watch the clip](videos/taborder_registration_page_faulted_with_bugs1.webp) · [MP4](videos/taborder_registration_page_faulted_with_bugs1.mp4)
 
   - When using the Chat Assistant to find products, focus skips over the results completely without capturing them, and user cannot click on any of them using only the keyboard.
-  [▶ Watch video](videos/taborder_chat_finding_products_faulted_with_bugs1.mp4)
+  [▶ Watch the clip](videos/taborder_chat_finding_products_faulted_with_bugs1.webp) · [MP4](videos/taborder_chat_finding_products_faulted_with_bugs1.mp4)
 
 * Both Sprints:
   - Focus completely skips the Sign out option in the navigation bar.
-  [▶ Watch video](videos/taborder_sign_out_both_sprints1.mp4)
+  [▶ Watch the clip](videos/taborder_sign_out_both_sprints1.webp) · [MP4](videos/taborder_sign_out_both_sprints1.mp4)
 
   - Focus completely skips the delete button inside the cart.
-  [▶ Watch video](videos/taborder_cart_delete_button_both_sprints1.mp4)
+  [▶ Watch the clip](videos/taborder_cart_delete_button_both_sprints1.webp) · [MP4](videos/taborder_cart_delete_button_both_sprints1.mp4)
 
   - Focus completely skips the step indicator inside the checkout steps.
-  [▶ Watch video](videos/taborder_skips_step_indicator_both_sprints1.mp4)
+  [▶ Watch the clip](videos/taborder_skips_step_indicator_both_sprints1.webp) · [MP4](videos/taborder_skips_step_indicator_both_sprints1.mp4)
 
 ---
 
@@ -1415,10 +1435,10 @@ The assistant refuses, shows an error ("There was an error processing your order
 
 #### Visual Evidence
 - Comparison tag:
-[▶ Watch video](videos/taborder_comparison_tag_clean_sprint1.mp4)
+[▶ Watch the clip](videos/taborder_comparison_tag_clean_sprint1.webp) · [MP4](videos/taborder_comparison_tag_clean_sprint1.mp4)
 
 * Exit button:
-[▶ Watch video](videos/taborder_chat_exit_button_clean_sprint1.mp4)
+[▶ Watch the clip](videos/taborder_chat_exit_button_clean_sprint1.webp) · [MP4](videos/taborder_chat_exit_button_clean_sprint1.mp4)
 
 ---
 
@@ -1442,10 +1462,10 @@ A focused rental product opens its details page when the Enter key is pressed.
 
 #### Visual Evidence
 - Checkboxes:
-[▶ Watch video](videos/taborder_filters_checkboxes_both_sprints1.mp4)
+[▶ Watch the clip](videos/taborder_filters_checkboxes_both_sprints1.webp) · [MP4](videos/taborder_filters_checkboxes_both_sprints1.mp4)
 
 * Rental products:
-[▶ Watch video](videos/taborder_rentals_both_sprints1.mp4)
+[▶ Watch the clip](videos/taborder_rentals_both_sprints1.webp) · [MP4](videos/taborder_rentals_both_sprints1.mp4)
 
 #### Notes
 The filter checkboxes can be toggled with the Space key, which is the standard behaviour, so they are not affected.
