@@ -29,7 +29,9 @@
 - User is not redirected to another page where he can change his password and restore his account.
 
 ### Visual Evidence:
-<video controls src="videos/forogt_password_button1.mp4" title="Title"></video>
+![Screen recording: forogt_password_button1](videos/forogt_password_button1.webp)
+
+[Full-quality MP4](videos/forogt_password_button1.mp4)
 
 ### Technical Context:
 * DevTools Elements:
@@ -58,7 +60,9 @@ Medium
 - User is not redirected to another page where he can register for the first time and get an account.
 
 ### Visual Evidence:
-<video controls src="videos/signup_button1.mp4" title="Title"></video>
+![Screen recording: signup_button1](videos/signup_button1.webp)
+
+[Full-quality MP4](videos/signup_button1.mp4)
 
 ### Technical Context:
 * DevTools Elements:
@@ -96,7 +100,9 @@ Medium
 - No cookie or session token has been stored in the browser.
 
 ### Visual Evidence:
-<video controls src="videos/checkbox1.mp4" title="Title"></video>
+![Screen recording: checkbox1](videos/checkbox1.webp)
+
+[Full-quality MP4](videos/checkbox1.mp4)
 
 ### Technical Context:
 * DevTools Cookies:
@@ -134,7 +140,9 @@ Medium
 - One interactive element is skipped "**Remember me checkbox**"; no non-interactive element receives focus.
 
 ### Visual Evidence:
-<video controls src="videos/tab_order1.mp4" title="Title"></video>
+![Screen recording: tab_order1](videos/tab_order1.webp)
+
+[Full-quality MP4](videos/tab_order1.mp4)
 
 ### Severity:
 Low
@@ -174,10 +182,14 @@ The toggle button for switching between dark and light modes encounters a glitch
 
 ### Visual Evidence:
 - Infinix Note 7:
-<video controls src="videos/theme_toggle_phone1.mp4" title="Title"></video>
+![Screen recording: theme_toggle_phone1](videos/theme_toggle_phone1.webp)
+
+[Full-quality MP4](videos/theme_toggle_phone1.mp4)
 
 * Samsung Galaxy Tab A 2016:
-<video controls src="videos/theme_toggle_tablet1.mp4" title="Title"></video>
+![Screen recording: theme_toggle_tablet1](videos/theme_toggle_tablet1.webp)
+
+[Full-quality MP4](videos/theme_toggle_tablet1.mp4)
 
 ### Severity:
 Medium

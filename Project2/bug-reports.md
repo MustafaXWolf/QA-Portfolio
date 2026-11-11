@@ -69,7 +69,9 @@ The form can not be submitted, and an error message should appear next to the fi
 - The html code missing the "**required tag**".
 
 ### Visual Evidence:
-<video controls src="videos/form_can_be_submitted_while_field_blank1.mp4" title="Title"></video>
+![Screen recording: form_can_be_submitted_while_field_blank1](videos/form_can_be_submitted_while_field_blank1.webp)
+
+[Full-quality MP4](videos/form_can_be_submitted_while_field_blank1.mp4)
 
 ### Technical Context:
 * DevTools Elements:
@@ -100,7 +102,9 @@ The form can not be submitted, and an error message should appear.
 The form can actually be submitted successfully without any error message appearing anywhere.
 
 ### Visual Evidence:
-<video controls src="videos/deleted_fields1.mp4" title="Title"></video>
+![Screen recording: deleted_fields1](videos/deleted_fields1.webp)
+
+[Full-quality MP4](videos/deleted_fields1.mp4)
 
 ### Technical Context:
 * DevTools Elements:
@@ -130,7 +134,9 @@ Hovering over them should display a tooltip explaining how the user's submitted 
 Nothing is displayed no matter how long the hovering lasts.
 
 ### Visual Evidence:
-<video controls src="videos/hovering_not_working1.mp4" title="Title"></video>
+![Screen recording: hovering_not_working1](videos/hovering_not_working1.webp)
+
+[Full-quality MP4](videos/hovering_not_working1.mp4)
 
 ### Severity:
 Medium
@@ -161,7 +167,9 @@ Medium
 - The form fields were not automatically cleared.
 
 ### Visual Evidence:
-<video controls src="videos/submit_button_not_clearing1.mp4" title="Title"></video>
+![Screen recording: submit_button_not_clearing1](videos/submit_button_not_clearing1.webp)
+
+[Full-quality MP4](videos/submit_button_not_clearing1.mp4)
 
 ### Severity:
 Low
@@ -189,7 +197,9 @@ Low
 - The field where the error occurred is being identified, but no error message has occurred.
 
 ### Visual Evidence:
-<video controls src="videos/no_error_message1.mp4" title="Title"></video>
+![Screen recording: no_error_message1](videos/no_error_message1.webp)
+
+[Full-quality MP4](videos/no_error_message1.mp4)
 
 ### Severity:
 Medium
@@ -218,7 +228,9 @@ Medium
 - No success message has occurred.
 
 ### Visual Evidence:
-<video controls src="videos/no_clear_success_message1.mp4" title="Title"></video>
+![Screen recording: no_clear_success_message1](videos/no_clear_success_message1.webp)
+
+[Full-quality MP4](videos/no_clear_success_message1.mp4)
 
 ### Severity:
 Low
@@ -250,13 +262,19 @@ Low
 
 ### Visual Evidence:
 - Submitting with one character:
-<video controls src="videos/one_character1.mp4" title="Title"></video>
+![Screen recording: one_character1](videos/one_character1.webp)
+
+[Full-quality MP4](videos/one_character1.mp4)
 
 * Submitting with more than 50 characters:
-<video controls src="videos/more_than_50_characters1.mp4" title="Title"></video>
+![Screen recording: more_than_50_characters1](videos/more_than_50_characters1.webp)
+
+[Full-quality MP4](videos/more_than_50_characters1.mp4)
 
 - Submitting with digits and special characters:
-<video controls src="videos/digits_and_special_characters1.mp4" title="Title"></video>
+![Screen recording: digits_and_special_characters1](videos/digits_and_special_characters1.webp)
+
+[Full-quality MP4](videos/digits_and_special_characters1.mp4)
 
 ### Severity:
 Medium
@@ -286,10 +304,14 @@ Medium
 
 ### Visual Evidence:
 - Submitting with wrong format:
-<video controls src="videos/wrong_email_format1.mp4" title="Title"></video>
+![Screen recording: wrong_email_format1](videos/wrong_email_format1.webp)
+
+[Full-quality MP4](videos/wrong_email_format1.mp4)
 
 * Submitting with more than 100 characters:
-<video controls src="videos/wrong_email_length1.mp4" title="Title"></video>
+![Screen recording: wrong_email_length1](videos/wrong_email_length1.webp)
+
+[Full-quality MP4](videos/wrong_email_length1.mp4)
 
 ### Severity:
 Medium
@@ -320,10 +342,14 @@ Medium
 
 ### Visual Evidence:
 - Submitting using an age over 70:
-<video controls src="videos/age_over_70_1.mp4" title="Title"></video>
+![Screen recording: age_over_70_1](videos/age_over_70_1.webp)
+
+[Full-quality MP4](videos/age_over_70_1.mp4)
 
 * Submitting using an age under 18:
-<video controls src="videos/age_under_18_1.mp4" title="Title"></video>
+![Screen recording: age_under_18_1](videos/age_under_18_1.webp)
+
+[Full-quality MP4](videos/age_under_18_1.mp4)
 
 ### Severity:
 Medium
@@ -353,7 +379,9 @@ Medium
 - The form can actually be submitted after editing the html code, and no error message appeared next to the field.
 
 ### Visual Evidence:
-<video controls src="videos/experience_field_empty1.mp4" title="Title"></video>
+![Screen recording: experience_field_empty1](videos/experience_field_empty1.webp)
+
+[Full-quality MP4](videos/experience_field_empty1.mp4)
 
 ### Technical Context:
 * DevTools Elements:
@@ -392,7 +420,9 @@ High
 ![Role field after adding and replacing options](images/new_roles_options.png)
 
 * The submitting process:
-<video controls src="videos/new_roles_options1.mp4" title="Title"></video>
+![Screen recording: new_roles_options1](videos/new_roles_options1.webp)
+
+[Full-quality MP4](videos/new_roles_options1.mp4)
 
 ### Technical Context:
 - DevTools Elements:
@@ -432,13 +462,17 @@ High
 ![Region field after adding and replacing options](images/new_region_options.png)
 
 * The submitting process after adding and replacing the options:
-<video controls src="videos/new_region_options1.mp4" title="Title"></video>
+![Screen recording: new_region_options1](videos/new_region_options1.webp)
+
+[Full-quality MP4](videos/new_region_options1.mp4)
 
 - The field after making multiple selections allowed:
 ![Region field allowing multiple selections](images/region_multiple_selections.png)
 
 * The submitting process after making multiple selections allowed:
-<video controls src="videos/region_multiple_selections1.mp4" title="Title"></video>
+![Screen recording: region_multiple_selections1](videos/region_multiple_selections1.webp)
+
+[Full-quality MP4](videos/region_multiple_selections1.mp4)
 
 ### Technical Context:
 - The html code after adding and replacing the options:
@@ -481,10 +515,14 @@ High
 ![Salary slider showing an incorrect minimum value](images/slider_wrong_minimum_value.png)
 
 * The slider's faulty increment step:
-<video controls src="videos/slider_faulted_increment _step1.mp4" title="Title"></video>
+![Screen recording: slider_faulted_increment _step1](videos/slider_faulted_increment _step1.webp)
+
+[Full-quality MP4](videos/slider_faulted_increment _step1.mp4)
 
 - The submitting process after changing the Maximum and Minimum values:
-<video controls src="videos/slider_new_values1.mp4" title="Title"></video>
+![Screen recording: slider_new_values1](videos/slider_new_values1.webp)
+
+[Full-quality MP4](videos/slider_new_values1.mp4)
 
 ### Technical Context:
 - The wrong Minimum value in the html code:
@@ -526,10 +564,14 @@ The slider is an optional field and the bypass requires manual DevTools tamperin
 
 ### Visual Evidence:
 - The submitting process after adding and replacing the options:
-<video controls src="videos/new_contact_values1.mp4" title="Title"></video>
+![Screen recording: new_contact_values1](videos/new_contact_values1.webp)
+
+[Full-quality MP4](videos/new_contact_values1.mp4)
 
 * The submitting process after making multiple selections allowed:
-<video controls src="videos/contact_multiple_selections1.mp4" title="Title"></video>
+![Screen recording: contact_multiple_selections1](videos/contact_multiple_selections1.webp)
+
+[Full-quality MP4](videos/contact_multiple_selections1.mp4)
 
 ### Technical Context:
 * Wrong contact option value:
@@ -572,7 +614,9 @@ The contact method is an optional field and the bypass requires manual DevTools 
 
 ### Visual Evidence:
 - The submitting process using wrong format and size:
-<video controls src="videos/id_wrong_format_and_size1.mp4" title="Title"></video>
+![Screen recording: id_wrong_format_and_size1](videos/id_wrong_format_and_size1.webp)
+
+[Full-quality MP4](videos/id_wrong_format_and_size1.mp4)
 
 ### Technical Context:
 * The html code showing that the form can accepts wrong formats:
@@ -604,7 +648,9 @@ High
 
 ### Visual Evidence:
 - The submitting process using wrong Maximum length more than 1000 characters:
-<video controls src="videos/comments_wrong_length1.mp4" title="Title"></video>
+![Screen recording: comments_wrong_length1](videos/comments_wrong_length1.webp)
+
+[Full-quality MP4](videos/comments_wrong_length1.mp4)
 
 ### Severity:
 Medium
@@ -637,7 +683,9 @@ Additional Comments is an optional free-text field with low user impact, so the 
 
 ### Visual Evidence:
 - The submitting process after deleting the required tag and not filling out any required fields:
-<video controls src="videos/deleted_required_tag1.mp4" title="Title"></video>
+![Screen recording: deleted_required_tag1](videos/deleted_required_tag1.webp)
+
+[Full-quality MP4](videos/deleted_required_tag1.mp4)
 
 ### Technical Context:
 * The html code from DevTools Elements after deleting the "required" tag:

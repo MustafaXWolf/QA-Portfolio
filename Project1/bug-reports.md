@@ -123,7 +123,9 @@ The user will be able to share the article on their social media accounts.
 The three buttons are not effective, no action is triggered.
 
 ### Visual Evidence:
-<video controls src="videos/uneffective_share_buttons1.mp4" title="Title"></video>
+![Screen recording: uneffective_share_buttons1](videos/uneffective_share_buttons1.webp)
+
+[Full-quality MP4](videos/uneffective_share_buttons1.mp4)
 https://github.com/MustafaXWolf/QA-Portfolio/blob/main/Project1/videos/uneffective_share_buttons1.mp4
 
 ### Technical Context:
